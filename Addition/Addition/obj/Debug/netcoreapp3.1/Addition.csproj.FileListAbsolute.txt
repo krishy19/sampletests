@@ -1,0 +1,13 @@
+D:\Study Materials\C# Sample\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.exe
+D:\Study Materials\C# Sample\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.deps.json
+D:\Study Materials\C# Sample\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.runtimeconfig.json
+D:\Study Materials\C# Sample\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.runtimeconfig.dev.json
+D:\Study Materials\C# Sample\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.dll
+D:\Study Materials\C# Sample\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.pdb
+D:\Study Materials\C# Sample\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.csprojAssemblyReference.cache
+D:\Study Materials\C# Sample\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.AssemblyInfoInputs.cache
+D:\Study Materials\C# Sample\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.AssemblyInfo.cs
+D:\Study Materials\C# Sample\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.csproj.CoreCompileInputs.cache
+D:\Study Materials\C# Sample\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.dll
+D:\Study Materials\C# Sample\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.pdb
+D:\Study Materials\C# Sample\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.genruntimeconfig.cache
